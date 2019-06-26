@@ -1,4 +1,7 @@
 .subTitle
 {
     border: 5px solid blue;
+    text-align: center;
+    font-size: 50px;
+    background-color: #1a579c;
 }

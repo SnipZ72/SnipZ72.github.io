@@ -9,7 +9,7 @@
 body
 {
     background-color: #244265;
-    color: lightblue;
+    
 }
 .bulletPoint
 {
@@ -20,16 +20,16 @@ body
 .commandPoint
 {
     font-weight: bold;
-    color: white;
     text-align: center;
     font-size: 18px;
+    color: lightblue;
 }
 .commandTitle
 {
     font-weight: bold;
     font-size: 30px;
-    color: white;
     text-align: center;
+    color: lightblue;
     
 }
 .addBot

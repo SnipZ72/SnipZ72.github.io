@@ -20,4 +20,13 @@ body
     font-weight: bold;
     font-size: 30px;
     color: white;
+    border-bottom: 2px solid black;
+    text-align: center;
+    
+}
+.addBot
+{
+    text-align: center;
+    color: white;
+    
 }

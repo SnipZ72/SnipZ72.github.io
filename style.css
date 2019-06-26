@@ -3,7 +3,7 @@
     border: 5px solid #123e6f;
     text-align: center;
     font-size: 50px;
-    background-color: #1a579c;
+    background-color: #15467c;
     color: white;
 }
 body
@@ -14,13 +14,14 @@ body
 {
     font-weight: bold;
     color: white;
+    font-size: 18px;
 }
 .commandPoint
 {
     font-weight: bold;
     color: white;
     text-align: center;
-    font-size: 20px;
+    font-size: 18px;
 }
 .commandTitle
 {

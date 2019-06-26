@@ -1,7 +1,23 @@
 .subTitle
 {
-    border: 5px solid blue;
+    border: 5px solid #123e6f;
     text-align: center;
     font-size: 50px;
     background-color: #1a579c;
+    color: white;
+}
+body
+{
+    background-color: #244265;
+}
+.bulletPoint
+{
+    font-weight: bold;
+    color: white;
+}
+.commandTitle
+{
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
 }

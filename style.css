@@ -13,8 +13,8 @@ body
 .bulletPoint
 {
     font-weight: bold;
-    color: white;
     font-size: 18px;
+    color: lightblue;
 }
 .commandPoint
 {
